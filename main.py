@@ -16,7 +16,7 @@ birthday = '02-20'
 app_id = 'wx17856034961be653'
 app_secret = '232cf479dacf2d70d8d89a74467fd529'
 
-user_ids = ['o-wQU6Q8uFa0mVwUR3feT0RCp0YM']
+user_ids = ['o-wQU6Q8uFa0mVwUR3feT0RCp0YM', 'o-wQU6RXz0BCBYfdxNd8wldfdCqE']
 template_id = 'kkJwUxLasq-KR5x2QfkaLrFo8CPyH26obXr_xOxGaOY'
 
 if app_id is None or app_secret is None:
